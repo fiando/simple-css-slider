@@ -1,2 +1,2 @@
-# pure-css-slider
+# simple-css-slider
 Simple Pure CSS Slider
